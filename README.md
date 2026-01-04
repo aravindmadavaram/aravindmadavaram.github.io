@@ -35,12 +35,12 @@ I specialize in bridging the gap between technical data engineering and strategi
 * Automated data logging to simulate a production-level ETL process.
 * [**View Code**](https://github.com/aravindmadavaram/stock-volatility-tracker)
 
-### 3. [E-Commerce Fraud Detection System](https://github.com/aravindmadavaram/ecommerce-fraud-detection)
+### 3. [E-Commerce Fraud Detection System](https://github.com/aravindmadavaram/E-commerce-Fraud-Detection)
 **Tech:** Advanced SQL, Risk Logic
 * Designed a SQL-based risk engine to detect "Velocity Attacks" and "Wardrobing" (Return Abuse).
 * Simulated millions of transaction records to test fraud prevention logic.
 * This logic mirrors the systems I optimized during my tenure at Amazon.
-* [**View Code**](https://github.com/aravindmadavaram/ecommerce-fraud-detection)
+* [**View Code**](https://github.com/aravindmadavaram/E-commerce-Fraud-Detection)
 
 ---
 
