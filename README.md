@@ -1,5 +1,5 @@
 # Aravind Kumar Madavaram
-### Data Analyst | Business Intelligence Specialist
+### Data Analyst | 
 Louisville, KY | [Email Me](mailto:Aravindkumarmadavaram@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravindkumar2803)
 
 ---
