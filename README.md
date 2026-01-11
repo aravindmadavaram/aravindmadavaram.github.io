@@ -5,7 +5,7 @@ Louisville, KY | [Email Me](mailto:Aravindkumarmadavaram@gmail.com) | [LinkedIn]
 ---
 
 ## 👋 About Me
-I am a **Data Analyst and Specialist** with a Master’s in Business Analytics and over 3 years of experience at **Amazon** and the **University of Louisville**. 
+I am a **Data Analyst and Specialist** with a Master’s in Business Analytics and over 7 years of experience at **Amazon** and the **University of Louisville**. 
 
 I specialize in bridging the gap between technical data engineering and strategic business decisions. My expertise lies in building automated pipelines (Python/SQL), designing executive dashboards (Tableau/Power BI), and performing root cause analysis to save costs and improve efficiency.
 
