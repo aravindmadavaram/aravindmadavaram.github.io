@@ -21,12 +21,17 @@ I specialize in bridging the gap between technical data engineering and strategi
 
 ## 🚀 Key Projects
 
-### 1. [OCTUNET Segmentation & Analysis Pipeline](https://github.com/aravindmadavaram/OCTUNET_SegmentationCode)
-**Tech:** Python (Jupyter), FIJI (ImageJ), Ilastik, OME-TIFF
-* **Overview:** Developed a hybrid pipeline to segment Immunohistochemistry (IHC) layers from raw `.oir` files and convert them into label stacks.
-* **Automation:** Integrated **Ilastik** projects via FIJI macros to automate pixel classification and object labeling.
-* **Analysis:** Engineered logic to load LZW-compressed `.ome.tif` stacks and calculate the Y-thickness of selected biological objects and gaps per column.
-* [**View Code**](https://github.com/aravindmadavaram/OCTUNET_SegmentationCode)
+### 1. Developed a deep learning-based 3D Convolutional Neural Network (CNN) for automated segmentation of volumetric microscopic imaging data
+Designed and implemented computer vision pipelines for preprocessing, enhancement, and normalization of multi-dimensional microscopy datasets (3D/5D)
+Performed data annotation and ground-truth mask generation for training supervised segmentation models on biomedical image volumes
+Applied advanced image processing techniques including filtering, contrast enhancement, noise reduction, and intensity normalization to improve model performance
+Built end-to-end workflow for 3D medical image segmentation, from raw OME-TIFF/volumetric data to model inference and visualization
+Integrated voxel-aware processing using spatial calibration (X, Y, Z scaling) for accurate biological structure reconstruction
+Trained and optimized deep learning models for semantic segmentation of cellular structures in microscopy datasets
+Evaluated model performance using IoU, Dice coefficient, precision/recall metrics to ensure segmentation accuracy
+Worked with multi-channel fluorescence microscopy data to extract meaningful biological insights using ML-based segmentation
+Improved annotation-to-training pipeline efficiency by automating preprocessing steps using Python-based image processing workflows
+Collaborated with research scientists to validate segmentation outputs against biological ground truth for experimental reproducibility
 
 ### 2. [Real-Time Stock Volatility Tracker](https://github.com/aravindmadavaram/stock-volatility-tracker)
 **Tech:** Python, Yahoo Finance API, Pandas
