@@ -1,62 +1,86 @@
-# Aravind Kumar Madavaram
-### Data Analyst | 
-Louisville, KY | [Email Me](mailto:Aravindkumarmadavaram@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aravindkumar2803)
+# Hi, I’m Aravind Kumar 👋
+
+### Data Analyst | Research Data Specialist | AI/ML & Bio-Image Analytics
+
+📍 Louisville, KY | Open to Data Analyst, AI Analyst, Computer Vision, and Risk Analytics roles
 
 ---
 
-## 👋 About Me
-I am a **Data Analyst and Specialist** with a Master’s in Business Analytics and over 7 years of experience at **Amazon** and the **University of Louisville**. 
+## About Me
 
-I specialize in bridging the gap between technical data engineering and strategic business decisions. My expertise lies in building automated pipelines (Python/SQL), designing executive dashboards (Tableau/Power BI), and performing root cause analysis to save costs and improve efficiency.
+I am a Data Analyst and Research Data Specialist with a Master’s in Business Analytics and 7+ years of experience across healthcare research, risk analytics, fraud detection, and business intelligence.
 
----
+My work focuses on transforming complex data into actionable insights through automated pipelines, advanced SQL analytics, Python-based workflows, dashboard development, and AI/ML-driven image analysis. I have worked with high-volume transactional data at Amazon and biomedical imaging data at UofL Health, where I support research teams through data processing, segmentation, validation, reporting, and reproducible analytics workflows.
 
-## 🛠 Skills
-* **Languages:** Python (Jupyter, Pandas), SQL (Advanced), FIJI Macro Language
-* **Visualization:** Tableau, Power BI, Amazon QuickSight
-* **Tools:** AWS, Ilastik, ImageJ/FIJI, Git
-* **Expertise:** Bio-Image Analysis, Fraud Detection, ETL Pipelines, Process Optimization
+I enjoy building end-to-end solutions that connect raw data, automation, model development, deployment-ready workflows, monitoring, and stakeholder-facing insights.
 
 ---
 
-## 🚀 Key Projects
+## Technical Skills
 
-### 1. Developed a deep learning-based 3D Convolutional Neural Network (CNN) for automated segmentation of volumetric microscopic imaging data
-Designed and implemented computer vision pipelines for preprocessing, enhancement, and normalization of multi-dimensional microscopy datasets (3D/5D)
-Performed data annotation and ground-truth mask generation for training supervised segmentation models on biomedical image volumes
-Applied advanced image processing techniques including filtering, contrast enhancement, noise reduction, and intensity normalization to improve model performance
-Built end-to-end workflow for 3D medical image segmentation, from raw OME-TIFF/volumetric data to model inference and visualization
-Integrated voxel-aware processing using spatial calibration (X, Y, Z scaling) for accurate biological structure reconstruction
-Trained and optimized deep learning models for semantic segmentation of cellular structures in microscopy datasets
-Evaluated model performance using IoU, Dice coefficient, precision/recall metrics to ensure segmentation accuracy
-Worked with multi-channel fluorescence microscopy data to extract meaningful biological insights using ML-based segmentation
-Improved annotation-to-training pipeline efficiency by automating preprocessing steps using Python-based image processing workflows
-Collaborated with research scientists to validate segmentation outputs against biological ground truth for experimental reproducibility
-
-### 2. [Real-Time Stock Volatility Tracker](https://github.com/aravindmadavaram/stock-volatility-tracker)
-**Tech:** Python, Yahoo Finance API, Pandas
-* Built a serverless data pipeline to ingest live market data.
-* Engineered a volatility algorithm to flag "High Risk" stocks in real-time.
-* Automated data logging to simulate a production-level ETL process.
-* [**View Code**](https://github.com/aravindmadavaram/stock-volatility-tracker)
-
-### 3. [E-Commerce Fraud Detection System](https://github.com/aravindmadavaram/E-commerce-Fraud-Detection)
-**Tech:** Advanced SQL, Risk Logic
-* Designed a SQL-based risk engine to detect "Velocity Attacks" and "Wardrobing" (Return Abuse).
-* Simulated millions of transaction records to test fraud prevention logic.
-* This logic mirrors the systems I optimized during my tenure at Amazon.
-* [**View Code**](https://github.com/aravindmadavaram/E-commerce-Fraud-Detection)
+**Programming & Analytics:** Python, SQL, Pandas, NumPy, Jupyter Notebook
+**Business Intelligence:** Tableau, Power BI, Amazon QuickSight
+**Data Engineering:** ETL Pipelines, Data Cleaning, Data Validation, Workflow Automation
+**AI/ML & Computer Vision:** Deep Learning, CNNs, 3D Image Segmentation, Transfer Learning, Model Evaluation
+**Bio-Image Analysis:** FIJI/ImageJ, Ilastik, Cellpose, StarDist, OME-TIFF, 3D/5D Microscopy Data
+**Cloud & Tools:** AWS, Git, GitHub, SSMS, Excel, MATLAB
+**Domain Expertise:** Healthcare Research, Fraud Detection, Risk Analytics, Process Optimization
 
 ---
 
-## 💼 Experience Highlight
-**University of Louisville (Dept. of Ophthalmology)** *Data Specialist (2024 - Present)* Reducing medical image processing time by **40%** via Python automation.
+## Featured Project
 
-**Amazon Development Center** *Transaction Risk Analyst (2021 - 2023)* Improved operational efficiency by **4.8%** through data-driven process improvements.
+### Deep Learning-Based 3D Microscopy Image Segmentation Pipeline
+
+Developed an end-to-end computer vision workflow for automated segmentation of volumetric biomedical microscopy data using deep learning and Python-based image processing.
+
+This project focuses on processing 3D/5D microscopy datasets, generating ground-truth annotations, training segmentation models, evaluating model performance, and creating deployment-ready inference workflows for research use.
+
+### Key Contributions
+
+* Built a 3D deep learning segmentation pipeline for volumetric microscopy image data.
+* Processed multi-dimensional OME-TIFF and TIFF imaging datasets using Python-based workflows.
+* Designed preprocessing steps including filtering, contrast enhancement, noise reduction, intensity normalization, and voxel-aware scaling.
+* Generated and validated ground-truth masks for supervised model training.
+* Trained and optimized deep learning-based segmentation models for cellular structure detection.
+* Evaluated model performance using IoU, Dice coefficient, precision, recall, and visual quality checks.
+* Automated preprocessing and inference steps to reduce manual workload and improve reproducibility.
+* Created deployment-ready scripts for running trained models on new microscopy datasets.
+* Added monitoring outputs such as prediction summaries, segmentation quality checks, model performance metrics, and review-ready visualizations.
+* Collaborated with research scientists to compare model outputs against biological ground truth and improve experimental reliability.
 
 ---
 
-## 📫 Contact
-Ready to discuss how data can drive your business forward?
-* [LinkedIn Profile](https://www.linkedin.com/in/aravindkumar2803)
-* [Email](mailto:Aravindkumarmadavaram@gmail.com)
+## Deployment & Monitoring Focus
+
+I designed the workflow to support reproducible model deployment and performance monitoring across new datasets.
+
+The pipeline includes:
+
+* Standardized input preparation for raw microscopy files
+* Automated preprocessing before model inference
+* Model inference on new image volumes
+* Segmentation output generation and visualization
+* Quality-control checks for prediction accuracy
+* Performance tracking using segmentation metrics
+* Review-ready outputs for researchers and stakeholders
+
+This approach helps ensure that the model is not only trained successfully but can also be reused, evaluated, and monitored consistently when applied to future biomedical imaging data.
+
+---
+
+## What I’m Working On
+
+* Improving deep learning workflows for biomedical image segmentation
+* Building reproducible AI/ML pipelines for research data
+* Developing dashboards and analytics tools for scientific and business decision-making
+* Expanding skills in MLOps, cloud deployment, and model monitoring
+
+---
+
+## Contact
+
+I am open to opportunities in Data Analytics, AI/ML, Computer Vision, Healthcare Analytics, and Risk Analytics.
+
+📫 Connect with me on LinkedIn : www.linkedin.com/in/aravindkumar2803/
+📧 Email me : Aravindkumarmadavaram@gmail.com
